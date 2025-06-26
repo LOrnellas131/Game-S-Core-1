@@ -1,12 +1,14 @@
 # Game-S-Core
 
-Este é um projeto do meu trabalho de Página Web 2 (PW2) junto com um colega de classe LOrnellas131,
-o trabalho consiste em criar uma uma página web que possua acesso a um banco de dos e consiga
-realizar um CRUD (Create Read Update Delete), e o nossa idéia foi criar um E-Commerce de jogos,
-o CRUD está presente na compra, visualização, alterar o saldo e excluir os jogos, além de outras coisas,
-nome do nosso site é Game S Core, uma piada, onde dependo da interpretação do usuário, pode ser "Games Core"
-algo como Núcleo de jogos, ou "Game Score" que seria Pontuação de jogos, o site possui uma interface simples,
-porém funcional, e por fim, abaixo está o código do banco de dados utilizado
+Este é um projeto do meu trabalho de Página Web 2 (PW2) junto com um colega de classe LOrnellas131, <br>
+o trabalho consiste em criar uma uma página web que possua acesso a um banco de dos e consiga <br>
+realizar um CRUD (Create Read Update Delete), e o nossa idéia foi criar um E-Commerce de jogos, <br>
+o CRUD está presente na compra, visualização, alterar o saldo e excluir os jogos, além de outras coisas, <br>
+nome do nosso site é Game S Core, uma piada, onde dependo da interpretação do usuário, pode ser "Games Core" <br>
+algo como Núcleo de jogos, ou "Game Score" que seria Pontuação de jogos, o site possui uma interface simples, <br>
+porém funcional.
+
+<h1>Banco de Dados</h1>
 
 create database gamescorebd;
 use gamescorebd;
